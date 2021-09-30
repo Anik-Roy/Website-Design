@@ -87,11 +87,14 @@ input[type="submit"]:hover {
 .logo p {}
 
 .social {
-  width: 250px;
-  float: right;
+    float: right;
+    margin: 10px 10px;
+    color: white;
 }
 .social a{
-  font-size: 60px;
+    font-size: 18px;
+    color: white;
+    margin: 0 10px;
 }
 .social img {
   width: 56px;
@@ -212,7 +215,7 @@ input[type="submit"]:hover {
 .about {}
 
 .about img {
-  floa t: left;
+  float: left;
   width: 316px;
   height: 210px;
   background: #ffffff;
